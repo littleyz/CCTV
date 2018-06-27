@@ -12,7 +12,7 @@
   * [前端](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan.md)
     * [摄像机](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji.md)
     * [摄像机电源](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji-dian-yuan.md)
-    * 摄像机安装支架
+    * [摄像机安装支架](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji-an-zhuang-zhi-jia.md)
   * [传输](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu.md)
   * [后端](4e8c-shi-pin-jian-kong-de-zu-cheng/3hou-duan.md)
 * [常见技术](4e09-chang-jian-ji-zhu.md)
