@@ -6,7 +6,7 @@
   * [2.实现形式](chapter1/2shi-xian-xing-shi.md)
   * [3.常见安防系统](chapter1/3chang-jian-an-fang-xi-tong.md)
   * [4.视频监控](chapter1/4shi-pin-jian-kong.md)
-  * 5.视频监控的发展
+  * [5.视频监控的发展](chapter1/5shi-pin-jian-kong-de-fa-zhan.md)
   * 6.行业构成要素
 * 二.视频监控的组成
 * 三.常见技术
