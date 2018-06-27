@@ -10,6 +10,9 @@
   * [行业构成要素](chapter1/6xing-ye-gou-cheng-yao-su.md)
 * [视频监控的组成](4e8c-shi-pin-jian-kong-de-zu-cheng.md)
   * [前端](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan.md)
+    * 摄像机
+    * 摄像机电源
+    * 摄像机安装支架
   * [传输](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu.md)
   * [后端](4e8c-shi-pin-jian-kong-de-zu-cheng/3hou-duan.md)
 * [常见技术](4e09-chang-jian-ji-zhu.md)
