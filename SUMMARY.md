@@ -18,6 +18,9 @@
     * [控制信号](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu/kong-zhi-xin-hao.md)
     * [电源](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu/dian-yuan.md)
   * [后端](4e8c-shi-pin-jian-kong-de-zu-cheng/3hou-duan.md)
+    * 录像
+    * 显示
+    * 控制
 * [常见技术](4e09-chang-jian-ji-zhu.md)
   * [模拟标清](4e09-chang-jian-ji-zhu/1mo-ni-biao-qing.md)
   * 模拟高清
