@@ -1,4 +1,4 @@
 # 概述
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+本章主要讲述安防的概念，常见的安防系统已经视频监控的发展历程和整个安防行业的构成要素。从整体上把握，了解整个行业的情况。
 
