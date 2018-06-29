@@ -15,7 +15,7 @@
       * [组成](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng.md)
       * 主要性能参数
     * [摄像机电源](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji-dian-yuan.md)
-    * [摄像机安装支架](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji-an-zhuang-zhi-jia.md)
+    * [摄像机安装方式](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji-an-zhuang-zhi-jia.md)
   * [传输](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu.md)
     * [视频信号](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu/shi-pin-xin-hao.md)
     * [控制信号](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu/kong-zhi-xin-hao.md)
