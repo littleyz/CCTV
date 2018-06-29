@@ -13,7 +13,7 @@
     * [摄像机](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji.md)
       * [分类](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/fen-lei.md)
       * [组成](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng.md)
-      * 主要性能参数
+      * [主要性能参数](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zhu-yao-xing-neng-can-shu.md)
     * [摄像机电源](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji-dian-yuan.md)
     * [摄像机安装方式](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji-an-zhuang-zhi-jia.md)
   * [传输](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu.md)
