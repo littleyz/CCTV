@@ -36,7 +36,7 @@
   * [行业品牌](4e94-jie-jue-fang-an/xing-ye-pin-pai.md)
 * [视频监控工程设计，施工](516d-shi-pin-jian-kong-gong-cheng-she-ji-ff0c-shi-gong.md)
   * [要求任务书](516d-shi-pin-jian-kong-gong-cheng-she-ji-ff0c-shi-gong/1yao-qiu-ren-wu-shu.md)
-  * 现场勘查
+  * [现场勘查](516d-shi-pin-jian-kong-gong-cheng-she-ji-ff0c-shi-gong/xian-chang-kan-cha.md)
   * 初步设计
   * 方案论证
   * 施工实施
