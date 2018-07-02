@@ -28,7 +28,9 @@
 
 一般的模拟摄像机的图像处理器我们成为ISP，网络摄像机的图像处理器因为还涉及到编码等过程，我们称之为DSP。
 
-![](/assets/CONTENTS7_C_143.png)模拟摄像机AHD方案 NVP2475H的系统框图
+![](/assets/CONTENTS7_C_143.png)模拟摄像机AHD方案 NVP2475H的系统框图\*
+
+\*图片来源：[nextchip官网](http://www.nextchip.com/ch/products/product.asp?hGubun=ISP&seq=143#none)
 
 ### 镜头
 
