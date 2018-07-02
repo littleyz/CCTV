@@ -17,8 +17,8 @@
         * [主芯片](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng/zhu-xin-pian.md)
         * [镜头](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng/jing-tou.md)
         * IR-CUT切换器
-        * 补光灯板
-        * 尾线
+        * [补光灯板](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng/bu-guang-deng-ban.md)
+        * [尾线](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng/wei-xian.md)
         * [其它](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng/qi-ta.md)
       * [主要性能参数](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zhu-yao-xing-neng-can-shu.md)
     * [摄像机电源](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji-dian-yuan.md)
