@@ -29,7 +29,7 @@
   * [数字高清](4e09-chang-jian-ji-zhu/shu-zi-gao-qing.md)
   * [模拟高清](4e09-chang-jian-ji-zhu/mo-ni-gao-qing.md)
   * [网络摄像机](4e09-chang-jian-ji-zhu/wang-luo-she-xiang-ji.md)
-  * 智能分析
+  * [AI 人工智能](4e09-chang-jian-ji-zhu/zhi-neng-fen-xi.md)
 * 发展趋势
 * [解决方案](4e94-jie-jue-fang-an.md)
   * 系统方案
