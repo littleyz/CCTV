@@ -26,6 +26,7 @@
     * [控制](4e8c-shi-pin-jian-kong-de-zu-cheng/3hou-duan/kong-zhi.md)
 * [常见技术](4e09-chang-jian-ji-zhu.md)
   * [模拟标清](4e09-chang-jian-ji-zhu/1mo-ni-biao-qing.md)
+  * [数字高清](4e09-chang-jian-ji-zhu/shu-zi-gao-qing.md)
   * [模拟高清](4e09-chang-jian-ji-zhu/mo-ni-gao-qing.md)
   * 网络摄像机
   * 智能分析
