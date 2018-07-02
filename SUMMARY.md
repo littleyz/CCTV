@@ -37,8 +37,8 @@
 * [视频监控工程设计，施工](516d-shi-pin-jian-kong-gong-cheng-she-ji-ff0c-shi-gong.md)
   * [要求任务书](516d-shi-pin-jian-kong-gong-cheng-she-ji-ff0c-shi-gong/1yao-qiu-ren-wu-shu.md)
   * [现场勘查](516d-shi-pin-jian-kong-gong-cheng-she-ji-ff0c-shi-gong/xian-chang-kan-cha.md)
-  * 初步设计
-  * 方案论证
+  * [初步设计](516d-shi-pin-jian-kong-gong-cheng-she-ji-ff0c-shi-gong/chu-bu-she-ji.md)
+  * [方案论证](516d-shi-pin-jian-kong-gong-cheng-she-ji-ff0c-shi-gong/fang-an-lun-zheng.md)
   * 施工实施
 * [常见问题](chang-jian-wen-ti.md)
 * [附录](fu-lu.md)
