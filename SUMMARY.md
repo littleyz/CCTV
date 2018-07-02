@@ -13,6 +13,13 @@
     * [摄像机](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji.md)
       * [分类](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/fen-lei.md)
       * [组成](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng.md)
+        * [外壳](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng/wai-ke.md)
+        * 主芯片
+        * 镜头
+        * IR-CUT切换器
+        * 补光灯板
+        * 尾线
+        * 其它
       * [主要性能参数](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zhu-yao-xing-neng-can-shu.md)
     * [摄像机电源](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji-dian-yuan.md)
     * [摄像机安装方式](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji-an-zhuang-zhi-jia.md)
