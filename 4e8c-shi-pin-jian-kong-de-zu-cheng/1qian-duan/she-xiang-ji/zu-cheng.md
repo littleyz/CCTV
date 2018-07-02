@@ -32,6 +32,12 @@
 
 \*图片来源：[nextchip官网](http://www.nextchip.com/ch/products/product.asp?hGubun=ISP&seq=143#none)
 
+### ![](/assets/Hi3519 Block Diagram.jpg)
+
+网络摄像机方案Hi3519系统框图\*\*
+
+\*\*图片来源：[海思官网](http://www.hisilicon.com/en/Products/ProductList/Surveillance)
+
 ### 镜头
 
 ### 尾线
