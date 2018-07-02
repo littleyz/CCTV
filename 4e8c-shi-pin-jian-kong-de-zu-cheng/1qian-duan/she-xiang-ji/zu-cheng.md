@@ -38,6 +38,10 @@
 
 \*\*图片来源：[海思官网](http://www.hisilicon.com/en/Products/ProductList/Surveillance)
 
+摄像机常见的ISP,DSP处理器方案及品牌
+
+监控摄像机常用的图像处理器（sensor）型号及品牌
+
 ### 镜头
 
 ### 尾线
