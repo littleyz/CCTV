@@ -2,6 +2,8 @@
 
 不同类型（网络，模拟，数字）的摄像机使用方案，芯片构成有差别，但从整体上看，监控摄像机的芯片核心组成图像处理器（DSP,ISP,SOC）+图像传感器（sensor）。
 
+### DSP/ISP/SOC
+
 > DSP,ISP,SOC的区别
 >
 > ISP 是Image Signal Processor 的简称，也就是图像信号处理器。而DSP是Digital Signal Processor 的缩写，也就是数字信号处理器。
@@ -26,7 +28,7 @@
 
 摄像机常见的ISP,DSP处理器方案及品牌
 
+### Sensor
+
 监控摄像机常用的图像处理器（sensor）型号及品牌
-
-
 
