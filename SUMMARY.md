@@ -14,7 +14,7 @@
       * [分类](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/fen-lei.md)
       * [组成](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng.md)
         * [外壳](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng/wai-ke.md)
-        * 主芯片
+        * [主芯片](4e8c-shi-pin-jian-kong-de-zu-cheng/1qian-duan/she-xiang-ji/zu-cheng/zhu-xin-pian.md)
         * 镜头
         * IR-CUT切换器
         * 补光灯板
