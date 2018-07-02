@@ -27,6 +27,7 @@
     * [视频信号](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu/shi-pin-xin-hao.md)
     * [控制信号](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu/kong-zhi-xin-hao.md)
     * [电源](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu/dian-yuan.md)
+    * [几种最新的传输方式](4e8c-shi-pin-jian-kong-de-zu-cheng/2chuan-shu/ji-zhong-zui-xin-de-chuan-shu-fang-shi.md)
   * [后端](4e8c-shi-pin-jian-kong-de-zu-cheng/3hou-duan.md)
     * [录像](4e8c-shi-pin-jian-kong-de-zu-cheng/3hou-duan/lu-xiang.md)
     * [显示](4e8c-shi-pin-jian-kong-de-zu-cheng/3hou-duan/xian-shi.md)
