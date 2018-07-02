@@ -5,6 +5,7 @@
 3. 维基百科--“摄像头”：[https://zh.wikipedia.org/wiki/摄像头](https://zh.wikipedia.org/wiki/摄像头)
 4. 海思官网：[http://www.hisilicon.com](http://www.hisilicon.com)
 5. Nextchip官网：[http://www.nextchip.com](http://www.nextchip.com/)
+6. IPC.NAME：[https://ipc.name](https://ipc.name)
 
 
 
