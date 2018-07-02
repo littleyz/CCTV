@@ -30,7 +30,7 @@
   * [模拟高清](4e09-chang-jian-ji-zhu/mo-ni-gao-qing.md)
   * [网络摄像机](4e09-chang-jian-ji-zhu/wang-luo-she-xiang-ji.md)
   * [AI 人工智能](4e09-chang-jian-ji-zhu/zhi-neng-fen-xi.md)
-* 发展趋势
+* [发展趋势](fa-zhan-qu-shi.md)
 * [解决方案](4e94-jie-jue-fang-an.md)
   * 系统方案
   * 行业品牌
