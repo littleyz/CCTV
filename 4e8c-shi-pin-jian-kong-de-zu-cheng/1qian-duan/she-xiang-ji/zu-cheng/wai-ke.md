@@ -14,3 +14,29 @@
 
 一个典型的摄像机外壳组成部分
 
+### 摄像机的防护等级
+
+##### IEC IP和IK防护等级标准
+
+IP 表示Ingress Protection\(进入防护\)。
+
+IEC IP防护等级是电气设备重要的安全防护。IP等防护级系统提供了一个以电器设备和包装的防尘、防水和防碰撞程度来对产品进行分类的方法。
+
+IEC IK是指设备外壳的抗冲击防护等级,通常IK和IP的防护要求是一同出现的。对于室外电子设备,无论是架空,地埋还是普通室外放置,都需要有相应的IP,IK要求。IK等级是焦耳为单位的摆锤自由落体撞击来决定的。具体的内容,可以直接参考国标：GBT20138电器设备外壳对外界机械碰撞的防护等级\(IK代码\) 。
+
+![](/assets/IEC IP,IK防护等级标准.png)
+
+##### NEMA防护等级标准
+
+Conversion of NEMA type classifications to IEC classification designation \(IP ratings\)
+
+Note: NEMA standards meet or exceed IEC standards; therefore, the conversion does not work in the opposite direction.
+
+![](/assets/NEMA防护等级标准.png)
+
+资料来源：IPC.NAME:[https://ipc.name/ip-ik/](https://ipc.name/ip-ik/)
+
+
+
+
+
