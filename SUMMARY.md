@@ -32,7 +32,7 @@
   * [AI 人工智能](4e09-chang-jian-ji-zhu/zhi-neng-fen-xi.md)
 * [发展趋势](fa-zhan-qu-shi.md)
 * [解决方案](4e94-jie-jue-fang-an.md)
-  * 系统方案
+  * [系统方案](4e94-jie-jue-fang-an/xi-tong-fang-an.md)
   * 行业品牌
 * [视频监控工程设计，施工](516d-shi-pin-jian-kong-gong-cheng-she-ji-ff0c-shi-gong.md)
   * [要求任务书](516d-shi-pin-jian-kong-gong-cheng-she-ji-ff0c-shi-gong/1yao-qiu-ren-wu-shu.md)
