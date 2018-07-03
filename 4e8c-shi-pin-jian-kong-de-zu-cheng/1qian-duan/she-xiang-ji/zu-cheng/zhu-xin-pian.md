@@ -26,6 +26,23 @@
 
 \*\*图片来源：[海思官网](http://www.hisilicon.com/en/Products/ProductList/Surveillance)
 
+##### DSP发展历程
+
+根据不同的摄像机方案应用，DSP经历了从传统模拟标清到现在支持AI，鱼眼矫正，4K/8K高清的发展历程标清时代。
+
+* 模拟标清：模拟标清处理器当时主要被日本SONY，SHARP，韩国的三星等厂家垄断。处理器的能力有限，支持的清晰度按照电视线（TVLine）标识，420线，480线，540线到比较高的
+
+
+
+* 网络标清
+* 数字高清\(SDI\)
+* 模拟高清
+* 网络高清
+* 消费类产品
+* AI,人工智能
+
+
+
 > 摄像机常见的ISP,DSP处理器方案及品牌
 >
 > [https://ipc.name/soc/](https://ipc.name/soc/)
