@@ -6,6 +6,7 @@
 4. 海思官网：[http://www.hisilicon.com](http://www.hisilicon.com)
 5. Nextchip官网：[http://www.nextchip.com](http://www.nextchip.com/)
 6. IPC.NAME：[https://ipc.name](https://ipc.name)
+7. 宇视：[http://cn.uniview.com](http://cn.uniview.com)
 
 
 
